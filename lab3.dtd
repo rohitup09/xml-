@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE elayne [
+<!ELEMENT details (userid,username,useraddress,userno,userinterest,role)>
+<!ELEMENT userid(#PCDATA)>
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT useraddress (#PCDATA)>
+<!ELEMENT userno (#PCDATA)>
+<!ELEMENT userinterest(#PCDATA)>
+<!ELEMENT role(#PCDATA)>
+]>
